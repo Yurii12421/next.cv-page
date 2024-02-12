@@ -1,5 +1,5 @@
 import React from 'react'
-import ThemeSwitcher from '../../public/button'
+import ThemeSwitcher from '../../components/button'
 
 export default function Page() {
   return (
